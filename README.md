@@ -107,29 +107,6 @@ I am a full-stack software developer proficient in the MERN stack (MongoDB, Expr
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amame-aazam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amame-aazam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=amame-aazam&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/36BCF7/amame-aazam" alt="Contribution calendar" width="95%" />
-
-</div>
-
----
-
 ## Coding Profiles
 
 <div align="center">
