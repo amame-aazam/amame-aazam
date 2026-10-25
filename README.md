@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Self-hosted banner: upload assets/header.svg to this repo -->
-<img src="./assets/header.svg" width="100%" alt="Amame Aazam - Full-Stack Developer" />
+<img src="./header.svg" width="100%" alt="Amame Aazam - Full-Stack Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Java+%2B+DSA+Problem+Solver;7x+National+Hackathon+Finalist;Building+things+that+matter" alt="Typing SVG" />
