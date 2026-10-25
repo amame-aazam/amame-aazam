@@ -1,35 +1,147 @@
-<h1 align="center">Hi , I'm Amame Aazam</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Java & DSA | AI/ML</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amame-aazam" alt="amame-aazam" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amame%20Aazam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%2FML&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-- I’m currently working on **Islamic App**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Java+%2B+DSA+Problem+Solver;7x+National+Hackathon+Finalist;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- I’m currently learning **Backend**
+<br/>
 
-- I’m looking to collaborate on **This App**
+<img src="https://komarev.com/ghpvc/?username=amame-aazam&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/amame-aazam?label=Followers&style=flat&logo=github&color=2c5364" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/amame-aazam&query=$.public_repos&label=Public%20Repos&style=flat&logo=github&color=2c5364" alt="Public repos" />
 
-- I’m looking for help with **No Need**
+<br/><br/>
 
-- All of my projects are available at [https://amame-aazam.github.io/](https://amame-aazam.github.io/)
+<a href="https://linkedin.com/in/amame-aazam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.leetcode.com/aazam07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://amame-aazam.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:amameaazam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://amame-aazam.github.io/resume/Aazam_Resume.pdf"><img src="https://img.shields.io/badge/Resume-34a853?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 
-- Ask me about **Full Stack Dev**
+</div>
 
-- How to reach me **amameaazam@gmail.com**
+---
 
-- Know about my experiences [https://amame-aazam.github.io/resume/Aazam_Resume.pdf](https://amame-aazam.github.io/resume/Aazam_Resume.pdf)
+## 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amame-aazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amame-aazam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aazam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aazam07" height="30" width="40" /></a>
-</p>
+I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves building responsive, real-world web and mobile applications and solving problems with **Java & Data Structures and Algorithms**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 🏆 **1st place** – INNOVERTEX Hackathon (2025)
+- 🚀 **7x National Hackathon Finalist**
+- 🎤 **Best Speaker Award** for presentation and technical communication
+- 🧩 **200+ problems solved** on LeetCode & GFG
+- 🌱 Currently learning **advanced backend development** and **AI/ML**
+- 💬 Ask me about **MERN stack, Java, DSA, and hackathons**
+- 🤝 Open to **collaborations, internships, and open-source projects**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amame-aazam&show_icons=true&locale=en&layout=compact" alt="amame-aazam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amame-aazam&show_icons=true&locale=en" alt="amame-aazam" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amame-aazam&" alt="amame-aazam" /></p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="Frontend" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend and Databases" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
+
+**Core CS:** OOP • DBMS • Operating Systems • Computer Networks • REST APIs • Authentication • CRUD
+
+---
+
+## 📌 Featured Projects
+
+<!--
+  ⚠️ EDIT THIS: replace the repo= values below with your EXACT repository names.
+  Example: if your repo URL is github.com/amame-aazam/ClassMark  ->  repo=ClassMark
+-->
+
+<div align="center">
+
+<a href="https://github.com/amame-aazam/ClassMark">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=ClassMark&theme=tokyonight&hide_border=true" alt="ClassMark" />
+</a>
+<a href="https://github.com/amame-aazam/IRCTC-Redesign">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=IRCTC-Redesign&theme=tokyonight&hide_border=true" alt="IRCTC Redesign" />
+</a>
+
+</div>
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎓 **[ClassMark](https://github.com/amame-aazam/ClassMark)** | Classroom management app with attendance tracking, assignments, student records and performance monitoring using role-based access control. | `React Native` `JavaScript` `Firebase` `MySQL` |
+| 🚆 **[IRCTC Website Redesign](https://github.com/amame-aazam/IRCTC-Redesign)** | Modern, responsive redesign of the IRCTC booking interface with dynamic seat availability and booking status via API integration. | `React` `JavaScript` `CSS` `APIs` |
+| 🏆 **INNOVERTEX Winning Project** | Full-stack application with real-time functionality and modern UI — 1st position. | `MERN Stack` |
+
+👉 **More projects:** [amame-aazam.github.io](https://amame-aazam.github.io/)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amame-aazam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amame-aazam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=amame-aazam&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+
+</div>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amame-aazam&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true" alt="Contribution Graph" width="100%" />
+
+</div>
+
+### 🏅 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amame-aazam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/aazam07">
+  <img src="https://leetcard.jacoblin.cool/aazam07?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="60%" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing new projects, internships, hackathon teams, or ideas.
+
+📧 **amameaazam@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/amame-aazam) &nbsp;|&nbsp; 🌐 [Portfolio](https://amame-aazam.github.io/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+
+⭐ *If you like my work, consider giving a star to my repositories!* ⭐
+
+</div>
