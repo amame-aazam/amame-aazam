@@ -2,16 +2,11 @@
 
 <!-- Self-hosted banner: upload assets/header.svg to this repo -->
 <img src="./header.svg" width="100%" alt="Amame Aazam - Full-Stack Developer" />
-
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=amame-aazam&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/amame-aazam?label=Followers&style=flat&logo=github&color=2c5364" alt="Followers" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/amame-aazam&query=$.public_repos&label=Public%20Repos&style=flat&logo=github&color=2c5364" alt="Public repos" />
-
 <br/><br/>
-
 <a href="https://linkedin.com/in/amame-aazam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.leetcode.com/aazam07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://amame-aazam.github.io/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
