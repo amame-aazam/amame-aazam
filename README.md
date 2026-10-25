@@ -43,11 +43,11 @@ I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js" alt="Languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark,html,css&theme=dark" alt="Frontend" />
 
 **Backend & Databases**
 
