@@ -47,7 +47,7 @@ I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark,tailwind&theme=dark" alt="Frontend" />
 
 **Backend & Databases**
 
