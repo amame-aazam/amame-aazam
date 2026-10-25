@@ -1,10 +1,10 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amame%20Aazam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20AI%2FML&descSize=18&descAlignY=58" width="100%" alt="header" />
+<!-- Self-hosted banner: upload assets/header.svg to this repo -->
+<img src="./assets/header.svg" width="100%" alt="Amame Aazam - Full-Stack Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Java+%2B+DSA+Problem+Solver;7x+National+Hackathon+Finalist;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Java+%2B+DSA+Problem+Solver;7x+National+Hackathon+Finalist;Building+things+that+matter" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,58 +34,84 @@ I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves
 - 🎤 **Best Speaker Award** for presentation and technical communication
 - 🧩 **200+ problems solved** on LeetCode & GFG
 - 🌱 Currently learning **advanced backend development** and **AI/ML**
-- 💬 Ask me about **MERN stack, Java, DSA, and hackathons**
-- 🤝 Open to **collaborations, internships, and open-source projects**
+- 💬 Ask me about **MERN stack, React Native, Java and DSA**
+- 🤝 Open to **collaborations, internships and open-source projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,js" alt="Languages" />
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Frontend**
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-6C47FF?style=for-the-badge&logo=postman&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-D14836?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD_Operations-2c5364?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark,tailwind&theme=dark" alt="Frontend" />
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Database Design](https://img.shields.io/badge/Database_Design-2c5364?style=for-the-badge)
 
-**Backend & Databases**
+### 🧠 Problem Solving & Core CS
+![DSA in Java](https://img.shields.io/badge/DSA_in_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-2c5364?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-2c5364?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-2c5364?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-2c5364?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend and Databases" />
+### 🤖 AI / ML (Learning)
+![AI Fundamentals](https://img.shields.io/badge/AI_Fundamentals-7C5CFF?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
-
-**Core CS:** OOP • DBMS • Operating Systems • Computer Networks • REST APIs • Authentication • CRUD
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📌 Featured Projects
 
-<!--
-  ⚠️ EDIT THIS: replace the repo= values below with your EXACT repository names.
-  Example: if your repo URL is github.com/amame-aazam/ClassMark  ->  repo=ClassMark
--->
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎓 **[ClassMark](https://github.com/amame-aazam/Class-Mark)** <br/> *Jan–Feb 2026* | Classroom management app for students and teachers: attendance tracking, assignment management, student records and performance monitoring with role-based access control and Firebase authentication. | `React Native` `JavaScript` `Firebase` `MySQL` |
+| 🚆 **[IRCTC Website Redesign](https://github.com/amame-aazam/IRCTC)** <br/> *Apr–May 2025* | Modern, responsive redesign of the IRCTC booking interface with dynamic seat availability and booking status via API integration, reusable components and accessibility-friendly design. | `React` `JavaScript` `CSS` `APIs` |
+| 🏆 **INNOVERTEX Winning Project** <br/> *2025* | Full-stack application with real-time functionality and modern UI that secured **1st position** at the hackathon. | `MERN Stack` |
+
+👉 **All projects with live demos and source code:** [amame-aazam.github.io](https://amame-aazam.github.io/) &nbsp;|&nbsp; [Browse my repositories](https://github.com/amame-aazam?tab=repositories)
 
 <div align="center">
 
-<a href="https://github.com/amame-aazam/ClassMark">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=ClassMark&theme=tokyonight&hide_border=true" alt="ClassMark" />
+<a href="https://github.com/amame-aazam/Class-Mark">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=Class-Mark&theme=tokyonight&hide_border=true" alt="Class-Mark" />
 </a>
-<a href="https://github.com/amame-aazam/IRCTC-Redesign">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=IRCTC-Redesign&theme=tokyonight&hide_border=true" alt="IRCTC Redesign" />
+<a href="https://github.com/amame-aazam/IRCTC">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amame-aazam&repo=IRCTC&theme=tokyonight&hide_border=true" alt="IRCTC" />
 </a>
 
 </div>
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🎓 **[ClassMark](https://github.com/amame-aazam/ClassMark)** | Classroom management app with attendance tracking, assignments, student records and performance monitoring using role-based access control. | `React Native` `JavaScript` `Firebase` `MySQL` |
-| 🚆 **[IRCTC Website Redesign](https://github.com/amame-aazam/IRCTC-Redesign)** | Modern, responsive redesign of the IRCTC booking interface with dynamic seat availability and booking status via API integration. | `React` `JavaScript` `CSS` `APIs` |
-| 🏆 **INNOVERTEX Winning Project** | Full-stack application with real-time functionality and modern UI — 1st position. | `MERN Stack` |
-
-👉 **More projects:** [amame-aazam.github.io](https://amame-aazam.github.io/)
 
 ---
 
@@ -96,25 +122,17 @@ I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=amame-aazam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amame-aazam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=amame-aazam&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amame-aazam&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
-### 🏅 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amame-aazam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://ghchart.rshah.org/36BCF7/amame-aazam" alt="Contribution calendar" width="95%" />
 
 </div>
 
@@ -134,13 +152,11 @@ I'm a **Computer Science undergraduate (B.Tech, IKGPTU, 2023–2027)** who loves
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing new projects, internships, hackathon teams, or ideas.
+I'm always open to discussing new projects, internships, hackathon teams or ideas.
 
-📧 **amameaazam@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/amame-aazam) &nbsp;|&nbsp; 🌐 [Portfolio](https://amame-aazam.github.io/)
+📧 **amameaazam@gmail.com** &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/amame-aazam) &nbsp;|&nbsp; 🌐 [Portfolio](https://amame-aazam.github.io/) &nbsp;|&nbsp; 📄 [Resume](https://amame-aazam.github.io/resume/Aazam_Resume.pdf)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
 
 ⭐ *If you like my work, consider giving a star to my repositories!* ⭐
 
